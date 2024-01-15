@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+
+## With 7+ years in Information Technology, I specialize in Business Intelligence, IT Systems, Data Analysis, Migration, Database Admin, and Support. Proficient in Microsoft SQL Server BI Stack (SSRS/SSIS/SSAS), T-SQL, and DAX Query language, I excel in analytical operations on OLTP, OLAP databases. My expertise extends to BI/DW model architecture implementation, aligning with industry best practices. Possessing strong SQL and SSIS skills, I adeptly utilize functions, stored procedures, expressions, and variables. My experience encompasses Data Visualization, Report building, and Business Information Management Systems, reflecting a comprehensive skill set in the IT landscape.
 
 <!--
 **gen2davoo/gen2davoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
