@@ -1,0 +1,26 @@
+evaluate 
+'edw fact_salesAnalysis'
+
+
+evaluate
+ FILTER('Product', 'Product'[Department]="Food")
+
+
+
+
+
+
+ evaluate 
+ SUMMARIZE('Product', 'Product'[Department], 
+					"Total Quantity", [Total Quantity],
+					"Total LineAmount", [Total LineAmount])
+					order by 'Product'[Department] asc
+
+-- Equivalent in sql 
+	select  p.department, sum(e.Quantity) TotalQuantity, sum(e.LineAmount) TotalLineAmount
+	from 'edw fact_salesAnalysis' e 
+	inner join product p  on e.productsk =p.productsk
+	group by p.department
+	order by Department asc
+
+
