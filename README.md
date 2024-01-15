@@ -1,6 +1,6 @@
-### Hi there 👋 
+### Hi there 👋 I'm David
 
-Over 7 years’ experience in Information Technology with expertise in Business Intelligence, IT Systems, Data Analysis, Data Migration, Database Administration and Support, Data Visualization, Report building, and Business Information Management Systems.
+With over 7 years’ experience in Information Technology with expertise in Business Intelligence, IT Systems, Data Analysis, Data Migration, Database Administration and Support, Data Visualization, Report building, and Business Information Management Systems.
 
 Vast Experience in implementing BI/DW model architecture adhering to best industry practice.
 
@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gen2davoo&show_icons=true&locale=en&layout=compact" alt="gen2davoo" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gen2davoo&show_icons=true&locale=en&layout=compact" alt="gen2davoo" /></p> -->
